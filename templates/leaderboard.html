@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="/static/style.css">
+
+<div class="container">
+    <h2>🏆 Leaderboard</h2>
+
+    <table border="1" style="margin:auto;">
+        <tr>
+            <th>User ID</th>
+            <th>Attempts</th>
+        </tr>
+
+        {% for s in scores %}
+        <tr>
+            <td>{{s.user_id}}</td>
+            <td>{{s.attempts}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <br>
+    <a href="/">Back</a>
+</div>

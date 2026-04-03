@@ -84,10 +84,10 @@ http://127.0.0.1:5000
 ## 📸 Screenshots
 
 * Login Page
-* Game Page
-* Leaderboard
+* <img width="1527" height="984" alt="Screenshot 2026-04-03 102259" src="https://github.com/user-attachments/assets/aa0ba742-66af-497c-8637-51dee2f38c2d" />
 
-(Add screenshots here later)
+* Game Page
+* <img width="1358" height="885" alt="Screenshot 2026-04-03 102236" src="https://github.com/user-attachments/assets/f6c47198-ffb0-4f91-b378-3777f7ca86d0" />
 
 ---
 
